@@ -2,11 +2,16 @@ table{
     width: 100%;
     border-collapse: collapse;
 }
-
+p{
+    margin: 0.5em 0;
+    text-align: center;
+    font-size: x-large;
+    font-family: 华文行楷;
+}
 table caption{
     font-size: 2em;
     font-weight: bold;
-    margin: 1em 0;
+    margin: 0.5em 0;
 
 }
 .bjimg {
@@ -24,11 +29,11 @@ th,td{
 
     border:1px dashed #0c0808;
     text-align: center;
-    padding: 20px 0px;
+    padding: 5px 0px;
 }
 
 table thead tr{
-    background-color: #62e0e0;
+    background-color: #e07f62;
     color: white;
     font-weight: bold;
 }
